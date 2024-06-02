@@ -7,14 +7,14 @@
   <a href="https://github.com/yoshinari0508">
     <img height="20" src="https://img.shields.io/github/followers/yoshinari0508?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+  <a href="http://qiita.com/yoshinari0508">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yoshinari0508/posts.svg" />
   </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
+  <a href="http://qiita.com/yoshinari0508">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yoshinari0508/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/keichan_15">
-    <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
+  <a href="https://zenn.dev/yoshinari0508">
+    <img height="20" src="https://badgen.org/img/zenn/yoshinari0508/articles?style=plastic" />
   </a>
 </p>
 
